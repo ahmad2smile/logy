@@ -1,6 +1,7 @@
 {
     "short_name": "Logy",
     "name": "Logify logs",
+    "description": "Pretifies the logs for Web bashed Dashbaords",
     "version": "1.0.0",
     "manifest_version": 2,
     "permissions": [
